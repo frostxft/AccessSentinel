@@ -1,0 +1,36 @@
+{
+  "role": "Paralegal",
+  "department": "Legal",
+  "avg_events_30d": 1.1666666666666667,
+  "std_events_30d": 0.37267799624996495,
+  "avg_events_per_session": 1.009433962264151,
+  "typical_access_hours": [
+    17,
+    2,
+    7,
+    12,
+    14,
+    13,
+    9,
+    1
+  ],
+  "typical_resources": [
+    "employee_portal",
+    "hr_information_system",
+    "test_environment",
+    "production_database",
+    "ci_cd_pipeline",
+    "security_incident_tracker",
+    "email_server",
+    "backup_system",
+    "financial_ledger",
+    "audit_logs"
+  ],
+  "avg_unique_resources_30d": 1.1666666666666667,
+  "std_unique_resources_30d": 0.37267799624996495,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 1.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

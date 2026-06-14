@@ -1,0 +1,34 @@
+{
+  "role": "Logistics Coordinator",
+  "department": "Operations",
+  "avg_events_30d": 1.3333333333333333,
+  "std_events_30d": 0.4714045207910317,
+  "avg_events_per_session": 1.0096153846153846,
+  "typical_access_hours": [
+    23,
+    10,
+    22,
+    17,
+    4,
+    19
+  ],
+  "typical_resources": [
+    "financial_ledger",
+    "vpn_gateway",
+    "load_balancer",
+    "staging_environment",
+    "dns_server",
+    "source_code_repo",
+    "customer_data_warehouse",
+    "test_environment",
+    "file_storage",
+    "ci_cd_pipeline"
+  ],
+  "avg_unique_resources_30d": 1.3333333333333333,
+  "std_unique_resources_30d": 0.4714045207910317,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.8499999999999996,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

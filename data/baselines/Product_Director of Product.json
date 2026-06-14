@@ -1,0 +1,36 @@
+{
+  "role": "Director of Product",
+  "department": "Product",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.031496062992126,
+  "typical_access_hours": [
+    22,
+    18,
+    2,
+    4,
+    3,
+    13,
+    10,
+    14
+  ],
+  "typical_resources": [
+    "email_server",
+    "ci_cd_pipeline",
+    "file_storage",
+    "source_code_repo",
+    "customer_data_warehouse",
+    "production_database",
+    "test_environment",
+    "monitoring_system",
+    "load_balancer",
+    "staging_environment"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

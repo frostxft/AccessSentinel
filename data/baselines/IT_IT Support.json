@@ -1,0 +1,36 @@
+{
+  "role": "IT Support",
+  "department": "IT",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    16,
+    6,
+    19,
+    11,
+    14,
+    12,
+    2,
+    4
+  ],
+  "typical_resources": [
+    "dns_server",
+    "load_balancer",
+    "email_server",
+    "file_storage",
+    "source_code_repo",
+    "audit_logs",
+    "test_environment",
+    "production_database",
+    "employee_portal",
+    "staging_environment"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.9000000000000004,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

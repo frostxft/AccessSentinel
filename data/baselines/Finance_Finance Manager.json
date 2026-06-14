@@ -1,0 +1,36 @@
+{
+  "role": "Finance Manager",
+  "department": "Finance",
+  "avg_events_30d": 1.1111111111111112,
+  "std_events_30d": 0.3142696805273545,
+  "avg_events_per_session": 1.0106382978723405,
+  "typical_access_hours": [
+    22,
+    16,
+    1,
+    21,
+    10,
+    17,
+    9,
+    14
+  ],
+  "typical_resources": [
+    "production_database",
+    "payment_processor",
+    "monitoring_system",
+    "dns_server",
+    "customer_data_warehouse",
+    "backup_system",
+    "load_balancer",
+    "financial_ledger",
+    "employee_portal",
+    "ci_cd_pipeline"
+  ],
+  "avg_unique_resources_30d": 1.1111111111111112,
+  "std_unique_resources_30d": 0.3142696805273545,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.84,
+  "month_end_multiplier": 1.5473684210526315,
+  "quarter_end_multiplier": 0.9230769230769231,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

@@ -1,0 +1,36 @@
+{
+  "role": "Support Manager",
+  "department": "Customer Support",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    8,
+    1,
+    12,
+    0,
+    7,
+    2,
+    13,
+    23
+  ],
+  "typical_resources": [
+    "customer_data_warehouse",
+    "security_incident_tracker",
+    "vpn_gateway",
+    "monitoring_system",
+    "employee_portal",
+    "staging_environment",
+    "load_balancer",
+    "file_storage",
+    "hr_information_system",
+    "email_server"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.84,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

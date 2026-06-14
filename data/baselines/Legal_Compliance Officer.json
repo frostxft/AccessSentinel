@@ -1,0 +1,36 @@
+{
+  "role": "Compliance Officer",
+  "department": "Legal",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    16,
+    0,
+    17,
+    9,
+    3,
+    10,
+    20,
+    5
+  ],
+  "typical_resources": [
+    "payment_processor",
+    "employee_portal",
+    "email_server",
+    "staging_environment",
+    "dns_server",
+    "monitoring_system",
+    "vpn_gateway",
+    "ci_cd_pipeline",
+    "source_code_repo",
+    "financial_ledger"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.6599999999999966,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

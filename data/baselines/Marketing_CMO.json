@@ -1,0 +1,36 @@
+{
+  "role": "CMO",
+  "department": "Marketing",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0113636363636365,
+  "typical_access_hours": [
+    13,
+    7,
+    6,
+    0,
+    14,
+    15,
+    21,
+    18
+  ],
+  "typical_resources": [
+    "source_code_repo",
+    "backup_system",
+    "file_storage",
+    "dns_server",
+    "ci_cd_pipeline",
+    "employee_portal",
+    "staging_environment",
+    "financial_ledger",
+    "sales_crm",
+    "production_database"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

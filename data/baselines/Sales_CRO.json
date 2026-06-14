@@ -1,0 +1,36 @@
+{
+  "role": "CRO",
+  "department": "Sales",
+  "avg_events_30d": 1.1428571428571428,
+  "std_events_30d": 0.34992710611188266,
+  "avg_events_per_session": 1.029126213592233,
+  "typical_access_hours": [
+    23,
+    4,
+    5,
+    3,
+    17,
+    10,
+    21,
+    6
+  ],
+  "typical_resources": [
+    "vpn_gateway",
+    "customer_data_warehouse",
+    "staging_environment",
+    "hr_information_system",
+    "dns_server",
+    "source_code_repo",
+    "ci_cd_pipeline",
+    "file_storage",
+    "audit_logs",
+    "monitoring_system"
+  ],
+  "avg_unique_resources_30d": 1.1428571428571428,
+  "std_unique_resources_30d": 0.34992710611188266,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

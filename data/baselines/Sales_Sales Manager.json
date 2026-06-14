@@ -1,0 +1,36 @@
+{
+  "role": "Sales Manager",
+  "department": "Sales",
+  "avg_events_30d": 1.0909090909090908,
+  "std_events_30d": 0.28747978728803447,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    22,
+    10,
+    0,
+    1,
+    7,
+    16,
+    21,
+    9
+  ],
+  "typical_resources": [
+    "employee_portal",
+    "file_storage",
+    "payment_processor",
+    "source_code_repo",
+    "sales_crm",
+    "production_database",
+    "vpn_gateway",
+    "test_environment",
+    "dns_server",
+    "financial_ledger"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

@@ -1,0 +1,36 @@
+{
+  "role": "Software Engineer",
+  "department": "Engineering",
+  "avg_events_30d": 1.1111111111111112,
+  "std_events_30d": 0.3142696805273545,
+  "avg_events_per_session": 1.043103448275862,
+  "typical_access_hours": [
+    2,
+    16,
+    17,
+    0,
+    11,
+    12,
+    13,
+    15
+  ],
+  "typical_resources": [
+    "sales_crm",
+    "security_incident_tracker",
+    "vpn_gateway",
+    "ci_cd_pipeline",
+    "staging_environment",
+    "payment_processor",
+    "audit_logs",
+    "customer_data_warehouse",
+    "production_database",
+    "employee_portal"
+  ],
+  "avg_unique_resources_30d": 1.1111111111111112,
+  "std_unique_resources_30d": 0.3142696805273545,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

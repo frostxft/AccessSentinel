@@ -1,0 +1,12 @@
+{
+  "T1078":     {"name": "Valid Accounts",               "tactic": "Defense Evasion",      "url": "https://attack.mitre.org/techniques/T1078"},
+  "T1136":     {"name": "Create Account",               "tactic": "Persistence",          "url": "https://attack.mitre.org/techniques/T1136"},
+  "T1098":     {"name": "Account Manipulation",         "tactic": "Persistence",          "url": "https://attack.mitre.org/techniques/T1098"},
+  "T1134":     {"name": "Access Token Manipulation",    "tactic": "Privilege Escalation", "url": "https://attack.mitre.org/techniques/T1134"},
+  "T1098.001": {"name": "Additional Cloud Credentials", "tactic": "Persistence",          "url": "https://attack.mitre.org/techniques/T1098/001"},
+  "T1078.003": {"name": "Local Accounts",               "tactic": "Defense Evasion",      "url": "https://attack.mitre.org/techniques/T1078/003"},
+  "T1078.004": {"name": "Cloud Accounts",               "tactic": "Defense Evasion",      "url": "https://attack.mitre.org/techniques/T1078/004"},
+  "T1110":     {"name": "Brute Force",                  "tactic": "Credential Access",    "url": "https://attack.mitre.org/techniques/T1110"},
+  "T1021":     {"name": "Remote Services",              "tactic": "Lateral Movement",     "url": "https://attack.mitre.org/techniques/T1021"},
+  "T1048":     {"name": "Exfiltration Over Alt Channel","tactic": "Exfiltration",         "url": "https://attack.mitre.org/techniques/T1048"}
+}

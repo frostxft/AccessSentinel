@@ -1,0 +1,44 @@
+{
+  "conflicts": [
+    {
+      "conflict_id": "SOD-001",
+      "role_a": "finance_approver",
+      "role_b": "payment_executor",
+      "description": "User can both approve and execute payments. Fraud risk.",
+      "severity": "CRITICAL",
+      "compliance": "SOX Section 302"
+    },
+    {
+      "conflict_id": "SOD-002",
+      "role_a": "admin",
+      "role_b": "auditor",
+      "description": "User can administer systems and erase audit trails.",
+      "severity": "CRITICAL",
+      "compliance": "NIST AC-5"
+    },
+    {
+      "conflict_id": "SOD-003",
+      "role_a": "developer",
+      "role_b": "deployer",
+      "description": "Developer can deploy their own code to production.",
+      "severity": "HIGH",
+      "compliance": "NIST CM-5"
+    },
+    {
+      "conflict_id": "SOD-004",
+      "role_a": "security_admin",
+      "role_b": "auditor",
+      "description": "User can set security policy and review their own audit logs.",
+      "severity": "CRITICAL",
+      "compliance": "SOX Section 404"
+    },
+    {
+      "conflict_id": "SOD-005",
+      "role_a": "admin",
+      "role_b": "security_admin",
+      "description": "User can provision accounts and set their own permissions.",
+      "severity": "HIGH",
+      "compliance": "NIST AC-2"
+    }
+  ]
+}

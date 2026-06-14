@@ -1,0 +1,36 @@
+{
+  "role": "Corporate Counsel",
+  "department": "Legal",
+  "avg_events_30d": 1.1428571428571428,
+  "std_events_30d": 0.3499271061118826,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    4,
+    14,
+    5,
+    16,
+    0,
+    19,
+    21,
+    20
+  ],
+  "typical_resources": [
+    "sales_crm",
+    "staging_environment",
+    "hr_information_system",
+    "payment_processor",
+    "monitoring_system",
+    "backup_system",
+    "ci_cd_pipeline",
+    "test_environment",
+    "source_code_repo",
+    "audit_logs"
+  ],
+  "avg_unique_resources_30d": 1.1428571428571428,
+  "std_unique_resources_30d": 0.3499271061118826,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 3.6400000000000006,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

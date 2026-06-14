@@ -1,0 +1,36 @@
+{
+  "role": "HR Manager",
+  "department": "HR",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    12,
+    19,
+    1,
+    4,
+    3,
+    23,
+    6,
+    10
+  ],
+  "typical_resources": [
+    "ci_cd_pipeline",
+    "test_environment",
+    "monitoring_system",
+    "backup_system",
+    "load_balancer",
+    "file_storage",
+    "customer_data_warehouse",
+    "production_database",
+    "payment_processor",
+    "employee_portal"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 1.8699999999999992,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

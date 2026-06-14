@@ -1,0 +1,36 @@
+{
+  "role": "Marketing Coordinator",
+  "department": "Marketing",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    14,
+    19,
+    22,
+    11,
+    15,
+    5,
+    2,
+    18
+  ],
+  "typical_resources": [
+    "audit_logs",
+    "backup_system",
+    "production_database",
+    "security_incident_tracker",
+    "payment_processor",
+    "customer_data_warehouse",
+    "hr_information_system",
+    "dns_server",
+    "financial_ledger",
+    "sales_crm"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.8599999999999994,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

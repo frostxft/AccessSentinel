@@ -1,0 +1,36 @@
+{
+  "role": "CSO",
+  "department": "Customer Support",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    17,
+    3,
+    5,
+    11,
+    21,
+    1,
+    0,
+    10
+  ],
+  "typical_resources": [
+    "backup_system",
+    "audit_logs",
+    "customer_data_warehouse",
+    "file_storage",
+    "test_environment",
+    "vpn_gateway",
+    "ci_cd_pipeline",
+    "production_database",
+    "employee_portal",
+    "staging_environment"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.8000000000000007,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

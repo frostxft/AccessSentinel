@@ -1,0 +1,36 @@
+{
+  "role": "Support Agent",
+  "department": "Customer Support",
+  "avg_events_30d": 1.3333333333333333,
+  "std_events_30d": 0.6236095644623235,
+  "avg_events_per_session": 1.036231884057971,
+  "typical_access_hours": [
+    4,
+    10,
+    7,
+    17,
+    6,
+    22,
+    2,
+    21
+  ],
+  "typical_resources": [
+    "test_environment",
+    "dns_server",
+    "ci_cd_pipeline",
+    "vpn_gateway",
+    "customer_data_warehouse",
+    "audit_logs",
+    "load_balancer",
+    "file_storage",
+    "hr_information_system",
+    "backup_system"
+  ],
+  "avg_unique_resources_30d": 1.25,
+  "std_unique_resources_30d": 0.4330127018922193,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.8499999999999996,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

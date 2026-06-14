@@ -1,0 +1,36 @@
+{
+  "role": "Account Executive",
+  "department": "Sales",
+  "avg_events_30d": 1.2857142857142858,
+  "std_events_30d": 0.45175395145262565,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    23,
+    1,
+    9,
+    21,
+    3,
+    5,
+    0,
+    4
+  ],
+  "typical_resources": [
+    "security_incident_tracker",
+    "staging_environment",
+    "financial_ledger",
+    "employee_portal",
+    "file_storage",
+    "production_database",
+    "email_server",
+    "source_code_repo",
+    "payment_processor",
+    "hr_information_system"
+  ],
+  "avg_unique_resources_30d": 1.2857142857142858,
+  "std_unique_resources_30d": 0.45175395145262565,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 1.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

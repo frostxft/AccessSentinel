@@ -1,0 +1,36 @@
+{
+  "role": "CHRO",
+  "department": "HR",
+  "avg_events_30d": 1.1111111111111112,
+  "std_events_30d": 0.3142696805273545,
+  "avg_events_per_session": 1.0163934426229508,
+  "typical_access_hours": [
+    5,
+    7,
+    19,
+    15,
+    11,
+    10,
+    17,
+    12
+  ],
+  "typical_resources": [
+    "test_environment",
+    "file_storage",
+    "load_balancer",
+    "payment_processor",
+    "email_server",
+    "monitoring_system",
+    "ci_cd_pipeline",
+    "backup_system",
+    "sales_crm",
+    "security_incident_tracker"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

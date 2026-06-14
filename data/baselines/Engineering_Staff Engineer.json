@@ -1,0 +1,36 @@
+{
+  "role": "Staff Engineer",
+  "department": "Engineering",
+  "avg_events_30d": 1.2307692307692308,
+  "std_events_30d": 0.4213250442347432,
+  "avg_events_per_session": 1.0178571428571428,
+  "typical_access_hours": [
+    5,
+    11,
+    12,
+    2,
+    19,
+    18,
+    23,
+    1
+  ],
+  "typical_resources": [
+    "sales_crm",
+    "payment_processor",
+    "staging_environment",
+    "load_balancer",
+    "dns_server",
+    "vpn_gateway",
+    "test_environment",
+    "backup_system",
+    "ci_cd_pipeline",
+    "financial_ledger"
+  ],
+  "avg_unique_resources_30d": 1.2307692307692308,
+  "std_unique_resources_30d": 0.4213250442347432,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 3.869999999999999,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

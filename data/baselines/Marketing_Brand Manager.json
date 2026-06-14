@@ -1,0 +1,36 @@
+{
+  "role": "Brand Manager",
+  "department": "Marketing",
+  "avg_events_30d": 1.25,
+  "std_events_30d": 0.4330127018922193,
+  "avg_events_per_session": 1.0126582278481013,
+  "typical_access_hours": [
+    4,
+    17,
+    0,
+    23,
+    5,
+    9,
+    6,
+    20
+  ],
+  "typical_resources": [
+    "email_server",
+    "test_environment",
+    "load_balancer",
+    "financial_ledger",
+    "monitoring_system",
+    "sales_crm",
+    "source_code_repo",
+    "production_database",
+    "payment_processor",
+    "customer_data_warehouse"
+  ],
+  "avg_unique_resources_30d": 1.25,
+  "std_unique_resources_30d": 0.4330127018922193,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 1.879999999999999,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

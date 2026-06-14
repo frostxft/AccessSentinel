@@ -1,0 +1,43 @@
+version: "3.8"
+
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - sentinelid_data:/app/data
+      - sentinelid_models:/app/models
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
+      # Identity Provider credentials (optional — leave blank for MOCK mode)
+      - OKTA_ORG_URL=${OKTA_ORG_URL:-}
+      - OKTA_API_TOKEN=${OKTA_API_TOKEN:-}
+      - AZURE_TENANT_ID=${AZURE_TENANT_ID:-}
+      - AZURE_CLIENT_ID=${AZURE_CLIENT_ID:-}
+      - AZURE_CLIENT_SECRET=${AZURE_CLIENT_SECRET:-}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID:-}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY:-}
+      - AWS_REGION=${AWS_REGION:-us-east-1}
+
+  dashboard:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8501:8501"
+    volumes:
+      - sentinelid_data:/app/data
+      - sentinelid_models:/app/models
+    restart: unless-stopped
+    depends_on:
+      api:
+        condition: service_healthy
+    command: ["streamlit", "run", "dashboard/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+
+volumes:
+  sentinelid_data:
+  sentinelid_models:

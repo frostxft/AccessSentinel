@@ -1,0 +1,71 @@
+{
+  "user_level": {
+    "overall_f1": 0.7777777777777778,
+    "macro_f1": 0.8644986449864498,
+    "weighted_f1": 0.923468834688347,
+    "precision_by_class": {
+      "0": 0.975,
+      "1": 0.7
+    },
+    "recall_by_class": {
+      "0": 0.9285714285714286,
+      "1": 0.875
+    },
+    "f1_by_class": {
+      "0": 0.9512195121951219,
+      "1": 0.7777777777777778
+    },
+    "false_positive_rate": 0.07142857142857142,
+    "false_positive_rate_by_dept": {
+      "Sales": 0.0,
+      "Customer Support": 0.0,
+      "Product": 0.07692307692307693,
+      "Marketing": 0.0,
+      "Finance": 0.14285714285714285,
+      "Legal": 0.08333333333333333,
+      "Operations": 0.1111111111111111,
+      "HR": 0.0,
+      "Engineering": 0.3333333333333333,
+      "IT": 0.0
+    },
+    "confusion_matrix_data": [
+      [
+        78,
+        6
+      ],
+      [
+        2,
+        14
+      ]
+    ]
+  },
+  "event_level": {
+    "overall_f1": 0.0,
+    "macro_f1": 0.3710691823899371,
+    "weighted_f1": 0.4378616352201258,
+    "precision_by_class": {
+      "0": 0.59,
+      "1": 0.0
+    },
+    "recall_by_class": {
+      "0": 1.0,
+      "1": 0.0
+    },
+    "f1_by_class": {
+      "0": 0.7421383647798742,
+      "1": 0.0
+    },
+    "false_positive_rate": 0.0,
+    "false_positive_rate_by_dept": {},
+    "confusion_matrix_data": [
+      [
+        4425,
+        0
+      ],
+      [
+        3075,
+        0
+      ]
+    ]
+  }
+}

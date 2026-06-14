@@ -1,0 +1,36 @@
+{
+  "role": "Security Analyst",
+  "department": "IT",
+  "avg_events_30d": 1.5,
+  "std_events_30d": 0.8660254037844386,
+  "avg_events_per_session": 1.0212765957446808,
+  "typical_access_hours": [
+    5,
+    17,
+    20,
+    10,
+    12,
+    4,
+    15,
+    8
+  ],
+  "typical_resources": [
+    "employee_portal",
+    "audit_logs",
+    "payment_processor",
+    "file_storage",
+    "staging_environment",
+    "vpn_gateway",
+    "sales_crm",
+    "production_database",
+    "ci_cd_pipeline",
+    "dns_server"
+  ],
+  "avg_unique_resources_30d": 1.5,
+  "std_unique_resources_30d": 0.8660254037844386,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.92,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

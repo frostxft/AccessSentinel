@@ -1,0 +1,36 @@
+{
+  "role": "CLO",
+  "department": "Legal",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0075757575757576,
+  "typical_access_hours": [
+    6,
+    14,
+    15,
+    19,
+    3,
+    23,
+    20,
+    4
+  ],
+  "typical_resources": [
+    "vpn_gateway",
+    "ci_cd_pipeline",
+    "hr_information_system",
+    "backup_system",
+    "email_server",
+    "employee_portal",
+    "customer_data_warehouse",
+    "load_balancer",
+    "dns_server",
+    "security_incident_tracker"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

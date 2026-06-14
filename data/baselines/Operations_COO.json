@@ -1,0 +1,36 @@
+{
+  "role": "COO",
+  "department": "Operations",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.0,
+  "typical_access_hours": [
+    1,
+    7,
+    17,
+    0,
+    3,
+    11,
+    19,
+    23
+  ],
+  "typical_resources": [
+    "test_environment",
+    "dns_server",
+    "financial_ledger",
+    "vpn_gateway",
+    "audit_logs",
+    "hr_information_system",
+    "employee_portal",
+    "ci_cd_pipeline",
+    "sales_crm",
+    "production_database"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 3.8200000000000003,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

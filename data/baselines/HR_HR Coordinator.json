@@ -1,0 +1,36 @@
+{
+  "role": "HR Coordinator",
+  "department": "HR",
+  "avg_events_30d": 1.0,
+  "std_events_30d": 0.0,
+  "avg_events_per_session": 1.021505376344086,
+  "typical_access_hours": [
+    11,
+    20,
+    19,
+    23,
+    15,
+    4,
+    2,
+    1
+  ],
+  "typical_resources": [
+    "monitoring_system",
+    "backup_system",
+    "ci_cd_pipeline",
+    "sales_crm",
+    "production_database",
+    "payment_processor",
+    "source_code_repo",
+    "security_incident_tracker",
+    "email_server",
+    "test_environment"
+  ],
+  "avg_unique_resources_30d": 1.0,
+  "std_unique_resources_30d": 0.0,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

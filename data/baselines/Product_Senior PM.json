@@ -1,0 +1,36 @@
+{
+  "role": "Senior PM",
+  "department": "Product",
+  "avg_events_30d": 1.2727272727272727,
+  "std_events_30d": 0.616575453011388,
+  "avg_events_per_session": 1.0071428571428571,
+  "typical_access_hours": [
+    6,
+    10,
+    5,
+    8,
+    0,
+    12,
+    4,
+    19
+  ],
+  "typical_resources": [
+    "sales_crm",
+    "staging_environment",
+    "vpn_gateway",
+    "source_code_repo",
+    "dns_server",
+    "production_database",
+    "load_balancer",
+    "test_environment",
+    "payment_processor",
+    "audit_logs"
+  ],
+  "avg_unique_resources_30d": 1.2727272727272727,
+  "std_unique_resources_30d": 0.616575453011388,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.8900000000000006,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

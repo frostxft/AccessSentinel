@@ -1,0 +1,36 @@
+{
+  "role": "Senior Engineer",
+  "department": "Engineering",
+  "avg_events_30d": 1.4285714285714286,
+  "std_events_30d": 0.4948716593053935,
+  "avg_events_per_session": 1.041237113402062,
+  "typical_access_hours": [
+    22,
+    3,
+    4,
+    10,
+    9,
+    21,
+    20,
+    6
+  ],
+  "typical_resources": [
+    "employee_portal",
+    "backup_system",
+    "source_code_repo",
+    "monitoring_system",
+    "dns_server",
+    "vpn_gateway",
+    "file_storage",
+    "financial_ledger",
+    "email_server",
+    "sales_crm"
+  ],
+  "avg_unique_resources_30d": 1.4285714285714286,
+  "std_unique_resources_30d": 0.4948716593053935,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 2.0,
+  "month_end_multiplier": 1.0,
+  "quarter_end_multiplier": 1.0,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}

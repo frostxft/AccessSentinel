@@ -1,0 +1,36 @@
+{
+  "role": "Senior Accountant",
+  "department": "Finance",
+  "avg_events_30d": 1.1111111111111112,
+  "std_events_30d": 0.3142696805273545,
+  "avg_events_per_session": 1.0104166666666667,
+  "typical_access_hours": [
+    0,
+    1,
+    5,
+    22,
+    11,
+    9,
+    12,
+    18
+  ],
+  "typical_resources": [
+    "audit_logs",
+    "staging_environment",
+    "source_code_repo",
+    "financial_ledger",
+    "vpn_gateway",
+    "security_incident_tracker",
+    "email_server",
+    "dns_server",
+    "backup_system",
+    "sales_crm"
+  ],
+  "avg_unique_resources_30d": 1.1111111111111112,
+  "std_unique_resources_30d": 0.3142696805273545,
+  "p95_events_single_session": 1.0,
+  "p99_download_count": 1.0,
+  "month_end_multiplier": 1.038659793814433,
+  "quarter_end_multiplier": 0.8955223880597015,
+  "computed_at": "2026-06-14T22:43:36.430573"
+}
